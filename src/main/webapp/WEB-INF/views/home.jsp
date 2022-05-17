@@ -7,7 +7,7 @@
 <body>
 <h1>
 	Hello world!
-	이거는 정말 진심으로 된건가요?????  
+	hi testtest!!!!
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
